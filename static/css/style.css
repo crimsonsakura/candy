@@ -8,6 +8,11 @@
 .bg-light {
     background-color: #f8f9fa99!important;
 }
+@media screen and (max-width: 540px){
+    .bg-light>.bg-light {
+    background-color: #ff5667!important;
+}
+}
 .navbar-nav{
     margin: 0 auto;
 }
