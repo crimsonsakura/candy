@@ -4,6 +4,9 @@
 .zh-font{
     font-family: 'Noto Sans TC', sans-serif;
 }
+.text-left{
+    text-align: left;
+}
 /* navbar */
 .bg-light {
     background-color: #f8f9fa99!important;
